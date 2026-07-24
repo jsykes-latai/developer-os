@@ -2,8 +2,9 @@
 
 ## Phase 1 - Foundation
 
-- [x] Repository created
-- [x] Documentation structure created
+- [x] Repository created (23 July 2026)
+- [x] Documentation structure created (24 July 2026)
+- [ ] Bootstrap the Turborepo monorepo
 - [ ] Create React application
 - [ ] Create ASP.NET Core API
 - [ ] Connect frontend and backend
