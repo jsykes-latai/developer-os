@@ -26,6 +26,14 @@ Viewing and testing other's projects by cloning GitHub repositories, setting up 
 - Docker
 - Python
 - Other APIs
+- Vite
+- Tailwind CSS
+- React Router
+- TanStack Query
+- Zustand
+- Entity Framework Core
+- Docker Compose
+- GitHub Actions
 
 ## Screenshots
 _Coming Soon_
